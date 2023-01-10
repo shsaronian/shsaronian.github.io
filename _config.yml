@@ -3,6 +3,7 @@ title: Sharon Saronian
 description: Sharon Saronian's Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+plugins: - jekyll-seo-tag
 
 # User settings
 username: Sharon Saronian
