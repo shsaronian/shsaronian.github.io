@@ -1,5 +1,6 @@
 # Site settings
 title: Sharon Saronian
+tagline: Webpage where I showcase my resume
 description: Sharon Saronian's Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -14,6 +15,13 @@ email: sh.saronian.ss@gmail.com
 twitter_username: Shsaronian
 linkedin_username: sharon-saronian
 github_username:  shsaronian
+
+social:
+  name: Sharon Saronian
+  links:
+    - https://twitter.com/Shsaronian
+    - https://www.linkedin.com/in/sharon-saronian
+    - https://github.com/shsaronian
 
 author:
   twitter: Shsaronian
