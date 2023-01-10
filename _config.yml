@@ -4,6 +4,7 @@ tagline: Webpage where I showcase my resume
 description: Sharon Saronian's Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+google-site-verification: OjuLR5zK9aXzmjhlPa0mFHrSL7Yc-TtRyRMoZEBvLGE
 plugins:
   - jekyll-seo-tag
 
