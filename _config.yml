@@ -11,9 +11,11 @@ username: Sharon Saronian
 user_description: I'm a machine learning engineer, based in Tehran, Iran. Currently, I work for Tosan company (www.tosan.com) where I build applications based on fintech and powered by AI.
 user_title: Machine Learning Engineer
 email: sh.saronian.ss@gmail.com
-twitter_username: shsaronian
+twitter_username: Shsaronian
 linkedin_username: sharon-saronian
 github_username:  shsaronian
 
+author:
+  twitter: Shsaronian
 
 exclude: ['package.json', 'src' , 'node_modules']
